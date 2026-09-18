@@ -8,9 +8,9 @@ The system uses a **Random Forest Classifier** trained on the Heart Disease data
 
 ## 🌐 Live Demo
 
-**[Open the Heart Disease Prediction App](YOUR_STREAMLIT_LINK)**
+**[Open the Heart Disease Prediction App](https://heart-disease-prediction--git.streamlit.app/)**
 
-> Replace `YOUR_STREAMLIT_LINK` with the Streamlit URL you have already shared.
+https://heart-disease-prediction--git.streamlit.app/
 
 ## 🎯 Features
 
